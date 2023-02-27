@@ -1,0 +1,1 @@
+This is (basically) the game Set.  This was a personal project, created on Sunday, July 5th, 2020, by Joseph Camacho
